@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "746040758723",
+    "project_id": "myvanam-7f890",
+    "storage_bucket": "myvanam-7f890.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:746040758723:android:101b3edc72571aef26ed76",
+        "android_client_info": {
+          "package_name": "com.example.my_vanam"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "746040758723-7142pmmr6alidu305rl70bvc88ooc31u.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.my_vanam",
+            "certificate_hash": "dc457e115aad28743f09e272715891824e72d1ee"
+          }
+        },
+        {
+          "client_id": "746040758723-k20qg3qgvgo2jbjek208n4hk9flp1okk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAd5tYkADpo7CUZxkgyS4xdBBCUPSakUYU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "746040758723-k20qg3qgvgo2jbjek208n4hk9flp1okk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
